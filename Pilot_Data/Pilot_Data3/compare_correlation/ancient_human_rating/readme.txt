@@ -1,0 +1,2 @@
+We randomly selected 200 (behavior + dimension) combinations for scoring. Each task consisted of 100 items, conducted once per day over a total of two days.
+随机抽取了200个（行为+维度）组合进行的打分，每100条分为一次任务，一天进行一次打分，共进行了两天。

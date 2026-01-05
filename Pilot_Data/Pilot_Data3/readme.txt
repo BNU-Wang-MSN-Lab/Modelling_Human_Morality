@@ -1,0 +1,5 @@
+main是主要实验结果。
+robustness_gpt4omini是验证llm可靠性的结果。
+compare_correlation是比较不同llm和人工评分200的相关性，从而确定了选用gpt-4o-mini。
+
+每个文件夹里面有一个pic文件夹，里面有画好的图，可以参考。
